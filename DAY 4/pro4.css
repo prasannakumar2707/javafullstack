@@ -1,0 +1,10 @@
+.relative{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 10px double wheat;
+    /*position relative; */
+    top: 20px;
+    left: 100px;
+    position:sticky;
+}

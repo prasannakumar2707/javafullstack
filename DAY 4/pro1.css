@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(148, 162, 162);
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20240919/pngtree-a-background-of-orange-blue-and-yellow-gradients-with-gritty-appearance-image_16233934.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius: 20px;
+    background-image: url(https://i.makeagif.com/media/10-18-2017/6F_-HE.gif);
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: darkgoldenrod;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: rgb(224, 59, 22);
+    font-family:forte;
+    
+}
+p{
+    font-size: 15px;
+    font-style: italic;
+    margin: 10px 20px;
+    text-align: justify;
+    padding: 15px;
+}
+
+.para{
+    box-shadow:2px 5px gray;
+}
+.para1{
+    border: 2px double navy;
+    border-radius: 20px;
+}
+h1{
+    text-shadow:1px 1px 3px orange;
+    font-style: italic;
+}
